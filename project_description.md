@@ -1,7 +1,8 @@
-### Project Title: Exploratory Work on the Predictive Clinical Neuroscience (PCN) Toolkit
+# Project Title: Exploratory Work on the Predictive Clinical Neuroscience (PCN) Toolkit
 
 
 ## Background
+The PCN toolkit aims at providing diffferent tools of normative modelling for understanding psychiatric disorders at the individual level including data selection, data preparation, algorithm & modelling and evaluation & interpretation (Rutherford et al., 2022). 
 
 ## Objectives
 The aim of this project will be decomposed into three sub-objectives:
@@ -9,10 +10,16 @@ The aim of this project will be decomposed into three sub-objectives:
 * Use another set of data to follow through the available steps that this toolkit offers (to name them here...)
 * Adapt some functionnalities which were found to be less intuitive to work with
 All of these three sub-objectives will be documented throughout the weeks to be able to be reproduced in later or other exploratory works. 
+
 ## Data at Hand
+First, the available data in the tutorials will be used. Then, the Calgary Preschool Dataset (Reynolds et al., 2020) will be analyzed using the PCN toolkit. This interesting and publicly available pediatric dataset is interesting in that it offers longitudinal data. Indeed, it contains T1-weighted images of around 64 subjects aged 2-8 years old.
 
 ## Tools Used:
 - [PCN Toolkit](https://pcntoolkit.readthedocs.io/en/latest/) and their [GitHub page](https://github.com/amarquand/PCNtoolkit)
 - Python Scripting
 - Machine Learning
 - Bash Terminal
+
+## References
+- Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. 
+- Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5
