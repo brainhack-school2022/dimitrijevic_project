@@ -9,7 +9,7 @@ The PCN toolkit aims at providing diffferent tools of normative modelling for un
 * Finally, sub-figure **D)** illustrates the regression model used to obtain results shown in **C)**.
 
 <a href="https://pcntoolkit.readthedocs.io/en/latest/pages/pcntoolkit_background.html">
-   <img src="https://pcntoolkit.readthedocs.io/en/latest/_images/blr_fig1.png" width:250px;" alt=""/>
+   <img src="https://pcntoolkit.readthedocs.io/en/latest/_images/blr_fig1.png" width:200px;" alt=""/>
    <br /><sub><b>Figure 1. Concepts involved in normative modelling... an image is worth 1000 words</b></sub>
 </a>
 
