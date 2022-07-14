@@ -2,7 +2,12 @@
 
 
 ## Background
-The PCN toolkit aims at providing diffferent tools of normative modelling for understanding psychiatric disorders at the individual level including data selection, data preparation, algorithm & modelling and evaluation & interpretation (Rutherford et al., 2022). 
+The PCN toolkit aims at providing diffferent tools of normative modelling for understanding psychiatric disorders at the individual level including data selection, data preparation, algorithm & modelling and evaluation & interpretation (Rutherford et al., 2022).
+
+<a href="https://pcntoolkit.readthedocs.io/en/latest/pages/pcntoolkit_background.html">
+   <img src="https://pcntoolkit.readthedocs.io/en/latest/_images/blr_fig1.png" alt=""/>
+   <br /><sub><b>An image is worth 1000 words</b></sub>
+</a>
 
 ## Objectives
 The aim of this project will be decomposed into three sub-objectives:
