@@ -3,13 +3,13 @@
 
 ## Background
 The PCN toolkit aims at providing diffferent tools of normative modelling for understanding psychiatric disorders at the individual level including data selection, data preparation, algorithm & modelling and evaluation & interpretation (Rutherford et al., 2022). The figure 1 below illustrates concepts involved in normative modelling: 
-* The sub-figure **a** represents how classical normative models are utilized using pediatric growth charts as examples. 
-* Sub-figure **b** highlights assumptions made during studies where different groups being studied are usually considered as homogeneous, when in fact there within-group heterogeneity.  
-* Sub-figure **c** shows how normative modelling can be used to predict brain variables (in this case, mean cortical thickness) against age. This modelling is only possible by combining an enormous quantity of multi-site data from a certain interest population.
-* Finally, sub-figure **d** illustrates the regression model used to obtain results shown in c.
+* The sub-figure **A)** represents how classical normative models are utilized using pediatric growth charts as examples. 
+* Sub-figure **B)** highlights assumptions made during studies where different groups being studied are usually considered as homogeneous, when in fact there within-group heterogeneity.  
+* Sub-figure **C)** shows how normative modelling can be used to predict brain variables (in this case, mean cortical thickness) against age. This modelling is only possible by combining an enormous quantity of multi-site data from a certain interest population.
+* Finally, sub-figure **D)** illustrates the regression model used to obtain results shown in **C)**.
 
 <a href="https://pcntoolkit.readthedocs.io/en/latest/pages/pcntoolkit_background.html">
-   <img src="https://pcntoolkit.readthedocs.io/en/latest/_images/blr_fig1.png" width:500px;" alt=""/>
+   <img src="https://pcntoolkit.readthedocs.io/en/latest/_images/blr_fig1.png" width:250px;" alt=""/>
    <br /><sub><b>Figure 1. Concepts involved in normative modelling... an image is worth 1000 words</b></sub>
 </a>
 
