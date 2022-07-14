@@ -21,14 +21,28 @@ The aim of this project will be decomposed into three sub-objectives:
 All of these three sub-objectives will be documented throughout the weeks to be able to be reproduced in later or other exploratory works. 
 
 ## Data at Hand
-First, the available data in the tutorials will be used. Then, the Calgary Preschool Dataset (Reynolds et al., 2020) will be analyzed using the PCN toolkit. This interesting and publicly available pediatric dataset is interesting in that it offers longitudinal data. Indeed, it contains T1-weighted images of around 64 subjects aged 2-8 years old.
+First, the available data in the tutorials will be used. Then, the Calgary Preschool Dataset (Reynolds et al., 2020) will be analyzed using the PCN toolkit. This interesting and publicly available pediatric dataset is interesting in that it offers longitudinal data. Indeed, it contains T1-weighted images of around 64 subjects aged 2-8 years old. Figure 2 illustrates how a pediatric brain develops exponentially fast and why it is hard to normalize in those given age ranges.
+                                                                                                   
+<a href="https://pubmed.ncbi.nlm.nih.gov/29033222/">
+   <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6969273/bin/gr1.jpg" width:200px;" alt=""/>
+   <br /><sub><b>Figure 2. Developmental trajectories for mean volumes of brain tissues with
+respect to age from [3]</b></sub>
+</a>
 
 ## Tools Used:
 - [PCN Toolkit](https://pcntoolkit.readthedocs.io/en/latest/) and their [GitHub page](https://github.com/amarquand/PCNtoolkit)
 - Python Scripting
 - Machine Learning
 - Bash Terminal
-
+- Python Packaging
+                                                                                                   
+## Delivrables
+- A new tutorial on using PCN Toolkit on your own dataset
+- A report on all the aspects that have been tested 
+- Shared code on GitHub during the exploration
+- A specific analysis pipeline packaged on a module (for introductory purposes)                                               
+                                                                                                   
 ## References
-- Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. 
-- Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5
+[1] Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. 
+[2] Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5
+[3] T. V. Phan et al. \Processing of structural neuroimaging data in young children: Bridging the gap between current practice and state-of-the-art methods". In: Dev Cogn Neurosci 33 (2018), pp. 206{223. issn: 1878-9293 (Print) 1878-9293. doi: 10.1016/j.dcn.2017.08.009.
