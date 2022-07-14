@@ -43,6 +43,6 @@ respect to age from [3]</b></sub>
 - A specific analysis pipeline packaged on a module (for introductory purposes)                                               
                                                                                                    
 ## References
-[1] Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. 
-[2] Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5
-[3] T. V. Phan et al. \Processing of structural neuroimaging data in young children: Bridging the gap between current practice and state-of-the-art methods". In: Dev Cogn Neurosci 33 (2018), pp. 206{223. issn: 1878-9293 (Print) 1878-9293. doi: 10.1016/j.dcn.2017.08.009.
+[1] Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. <br />
+[2] Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5 <br />
+[3] T. V. Phan et al. \Processing of structural neuroimaging data in young children: Bridging the gap between current practice and state-of-the-art methods". In: Dev Cogn Neurosci 33 (2018), pp. 206{223. issn: 1878-9293 (Print) 1878-9293. doi: 10.1016/j.dcn.2017.08.009. <br />
