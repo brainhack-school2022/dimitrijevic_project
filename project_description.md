@@ -28,6 +28,12 @@ First, the available data in the tutorials will be used. Then, the Calgary Presc
    <br /><sub><b>Figure 2. Developmental trajectories for mean volumes of brain tissues with
 respect to age from [3]</b></sub>
 </a>
+                                                                                                   
+## Delivrables
+- A new tutorial on using PCN Toolkit on your own dataset
+- A report on all the aspects that have been tested 
+- Shared code on GitHub during the exploration
+- A specific analysis pipeline packaged on a module (for introductory purposes)                                               
 
 ## Tools Used:
 - [PCN Toolkit](https://pcntoolkit.readthedocs.io/en/latest/) and their [GitHub page](https://github.com/amarquand/PCNtoolkit)
@@ -35,13 +41,7 @@ respect to age from [3]</b></sub>
 - Machine Learning
 - Bash Terminal
 - Python Packaging
-                                                                                                   
-## Delivrables
-- A new tutorial on using PCN Toolkit on your own dataset
-- A report on all the aspects that have been tested 
-- Shared code on GitHub during the exploration
-- A specific analysis pipeline packaged on a module (for introductory purposes)                                               
-                                                                                                   
+
 ## References
 [1] Reynolds, J. E., Long, X., Paniukov, D., Bagshawe, M., & Lebel, C. (2020). Calgary Preschool magnetic resonance imaging (MRI) dataset. Data Brief, 29, 105224. <br />
 [2] Rutherford, S., Kia, S. M., Wolfers, T., Fraza, C., Zabihi, M., Dinga, R., Berthet, P., Worker, A., Verdi, S., Ruhe, H. G., Beckmann, C. F., & Marquand, A. F. (2022). The normative modeling framework for computational psychiatry. Nature Protocols. https://doi.org/10.1038/s41596-022-00696-5 <br />
