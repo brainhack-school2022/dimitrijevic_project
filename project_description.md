@@ -16,7 +16,7 @@ The PCN toolkit aims at providing diffferent tools of normative modelling for un
 ## Objectives
 The aim of this project will be decomposed into three sub-objectives:
 * Start off with the available tutorial on the PCN toolkit documentation to get familiar to it
-* Use another set of data to follow through the available steps that this toolkit offers (to name them here...)
+* Use another set of data to follow through the available steps that this toolkit offers 
 * Adapt some functionnalities which were found to be less intuitive to work with
 All of these three sub-objectives will be documented throughout the weeks to be able to be reproduced in later or other exploratory works. 
 
