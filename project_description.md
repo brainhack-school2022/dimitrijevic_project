@@ -4,7 +4,7 @@
 ## Background
 The PCN toolkit aims at providing diffferent tools of normative modelling for understanding psychiatric disorders at the individual level including data selection, data preparation, algorithm & modelling and evaluation & interpretation (Rutherford et al., 2022). The figure 1 below illustrates concepts involved in normative modelling: 
 * The sub-figure **A)** represents how classical normative models are utilized using pediatric growth charts as examples. 
-* Sub-figure **B)** highlights assumptions made during studies where different groups being studied are usually considered as homogeneous, when in fact there within-group heterogeneity.  
+* Sub-figure **B)** highlights assumptions made during studies where different groups being studied are usually considered as homogeneous, when in fact there is within-group heterogeneity.  
 * Sub-figure **C)** shows how normative modelling can be used to predict brain variables (in this case, mean cortical thickness) against age. This modelling is only possible by combining an enormous quantity of multi-site data from a certain interest population.
 * Finally, sub-figure **D)** illustrates the regression model used to obtain results shown in **C)**.
 
@@ -21,7 +21,7 @@ The aim of this project will be decomposed into three sub-objectives:
 All of these three sub-objectives will be documented throughout the weeks to be able to be reproduced in later or other exploratory works. 
 
 ## Data at Hand
-First, the available data in the tutorials will be used. Then, the Calgary Preschool Dataset (Reynolds et al., 2020) will be analyzed using the PCN toolkit. This interesting and publicly available pediatric dataset is interesting in that it offers longitudinal data. Indeed, it contains T1-weighted images of around 64 subjects aged 2-8 years old. Figure 2 illustrates how a pediatric brain develops exponentially fast and why it is hard to normalize in those given age ranges.
+First, the available data in the tutorials will be used. Then, the Calgary Preschool Dataset (Reynolds et al., 2020) will be analyzed using the PCN toolkit. This publicly available pediatric dataset is interesting in that it offers longitudinal data. Indeed, it contains T1-weighted images of around 64 subjects aged 2-8 years old. Figure 2 illustrates how a pediatric brain develops exponentially fast and why it is hard to normalize in those given age ranges.
                                                                                                    
 <a href="https://pubmed.ncbi.nlm.nih.gov/29033222/">
    <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6969273/bin/gr1.jpg" width:200px;" alt=""/>
