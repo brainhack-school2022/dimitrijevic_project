@@ -31,7 +31,8 @@ The two options for connecting are:
 
     And it will show:
     ```console
-    cluster_user_name@bastion-ip's password:                                                               Creating directory '/home/cluster_user_name'. 
+    cluster_user_name@bastion-ip's password:  
+    Creating directory '/home/cluster_user_name'. 
     [cluster_user_name@ace-swift-bastion ~]$                      
     ```
 
