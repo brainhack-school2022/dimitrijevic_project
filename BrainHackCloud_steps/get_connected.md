@@ -31,7 +31,8 @@ The two options for connecting are:
 
     And it will show:
     ```console
-    cluster_user_name@192.18.155.73's password:                                                                                                            Creating directory '/home/cluster_user_name'.                                                                                                          [cluster_user_name@ace-swift-bastion ~]$
+    cluster_user_name@bastion-ip's password:                                                               Creating directory '/home/cluster_user_name'. 
+    [cluster_user_name@ace-swift-bastion ~]$                      
     ```
 
 - Connecting directly to the admin account via this command:
@@ -39,9 +40,11 @@ The two options for connecting are:
     ```console
     user@LAPTOP-abcdefgh:~$ ssh -i ~/.ssh/oracle_private_key_file_name opc@bastion-ip
     ```
-    Here, ssh -i links to the input ssh key which needs to be read in order to successfully connect to . If the connection worked it will show:
+    Here, ssh -i links to the input ssh key which needs to be read in order to successfully connect to the cloud. If the connection worked it will show:
     ```console
-    Last login: Thu Jul 25 15:34:25 2022 from 22.456.34.12                                                                                       [opc@ace-swift-bastion ~]$
+    Last login: Thu Jul 25 15:34:25 2022 from 22.456.34.12
+    [opc@ace-swift-bastion ~]$
+
     ```
 Finally, type in exit in the command line to logout.
 
