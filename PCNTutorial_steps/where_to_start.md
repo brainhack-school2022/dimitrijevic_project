@@ -26,6 +26,6 @@ This is a guide to starting out using the [PCN-toolkit](https://github.com/amarq
     ```console
     user@LAPTOP-abcdefgh:~$ conda create --name new_environment_name python=3.9.1               
     ```
-10. To finish, follow through the modified tutorial which can be found under PCNToolkitDemo in the [BrainHAck school project repo](https://github.com/brainhack-school2022/dimitrijevic_project) which successfully runs all the cells and imports the right packages necessary for the PCNToolKit functions to work.
+10. To finish, follow through the modified tutorial which can be found under PCNToolkitDemo in the [BrainHack school project repo](https://github.com/brainhack-school2022/dimitrijevic_project) which successfully runs all the cells and imports the right packages necessary for the PCNToolKit functions to work.
 
 Congrats! :tada: You are now set to try to use it on your own data!
