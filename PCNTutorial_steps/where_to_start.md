@@ -5,9 +5,9 @@ This is a guide to starting out using the [PCN-toolkit](https://github.com/amarq
 ## Steps to follow through while starting off their tutorials
 1. Start off by knowing first hand what you wish to use the tool for so that you can be attentive to the most important parts for you while going through these next tutorials!
 2. Get familiar with how their [PCNtoolkit-demo repository](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo) is organized and fork it to your own repository. On my end (this is not a required substep), I applied this command in my local project repository so that their demo repository becomes a subtree:
-```console
+    ```console
     user@LAPTOP-abcdefgh:~$ git subtree add --prefix PCNToolkitDemo {URL of original GitHub} main --squash                   
-```
+    ```
 
 3. First, read this [README file](https://github.com/saigerutherford/CPC_ML_tutorial/blob/master/README.md) which contains very useful Google Colab info as well as 4 tasks that can be achieved directly on Google Colab
 4. Link your Google Colab to GitHub so that you can commit changes directly from the Google Colab platform! See image below on where to find this feature:
