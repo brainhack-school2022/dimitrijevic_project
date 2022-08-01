@@ -21,10 +21,10 @@ This is a guide to starting out using the [PCN-toolkit](https://github.com/amarq
     ```
     OR simply by clicking on *Include a link to Colaboratory* when copying to GitHub with a commit message via Google Colab. Some further explanations are available in [this Google Colab](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 7. Now go through the CPC_2020 tutorial then the HBR_FCON while saving your changes when working on the jupyter notebooks on Colab
-8. Finish off with the BLR_protocol which does not install correctly the requirements.txt file because of the embedded Google Colab python version (3.7.13) while it should be 3.9.1. See the [related GitHub issue here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/issues/6) that was created. 
+8. Finish off with the BLR_protocol which does not install correctly the requirements.txt file because of the embedded Google Colab python version (3.7.13) while it should be 3.9.12. See the [related GitHub issue here](https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo/issues/6) that was created. 
 9. Run this tutorial locally by first creating a conda environment like so:
     ```console
-    user@LAPTOP-abcdefgh:~$ conda create --name new_environment_name python=3.9.1               
+    user@LAPTOP-abcdefgh:~$ conda create --name new_environment_name python=3.9.12               
     ```
 10. To finish, follow through the modified tutorial which can be found under PCNToolkitDemo in the [BrainHack school project repo](https://github.com/brainhack-school2022/dimitrijevic_project) which successfully runs all the cells and imports the right packages necessary for the PCNToolKit functions to work.
 
