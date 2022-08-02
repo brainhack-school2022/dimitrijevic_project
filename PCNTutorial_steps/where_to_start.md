@@ -28,4 +28,4 @@ This is a guide to starting out using the [PCN-toolkit](https://github.com/amarq
     ```
 10. To finish, follow through the modified tutorial which can be found under PCNToolkitDemo in the [BrainHack school project repo](https://github.com/brainhack-school2022/dimitrijevic_project) which successfully runs all the cells and imports the right packages necessary for the PCNToolKit functions to work.
 
-Congrats! :tada: You are now set to try to use it on your own data!
+Congrats! :tada: You are now set to try to use it on your own data! Visit [this link](https://github.com/brainhack-school2022/dimitrijevic_project/blob/main/PCNTutorial_steps/data_formatting.md) to find out more about data formatting!

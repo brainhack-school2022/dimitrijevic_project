@@ -1,6 +1,6 @@
 # Formatting Data to Run the PCN-toolkit Functions
 
-This is an overview on the way data should be formatted in order to be used by the PCN-toolkit normative modelling functions such as evaluate. Usually, it is important to follow how the dataset in first organized in dataframes to be able to pass it through this function. **Covariates** such as sex, age and site of the data need to be concatenated with **brain measures or features** of interest (e.g. cortical thickness maps of different brain regions). 
+This is an overview on the way data should be formatted in order to be used by the PCN-toolkit normative modelling functions such as evaluate. Usually, it is important to follow how the dataset in first organized in dataframes to be able to pass it through this function. **Covariates** such as sex, age and site of the data need to be concatenated with **brain measures or features** of interest (e.g. cortical thickness maps of different brain regions). Hence, it is essential to preprocess your data to have those brain measures which can take quite some time in itself.
 
 A dataframe combining these two elements in bold is presented below, where the 2nd to 4th columns are covariates and others are example brain features (all values are only example values with no scientific usefulness):
 
