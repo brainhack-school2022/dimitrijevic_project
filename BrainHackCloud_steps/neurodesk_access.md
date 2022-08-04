@@ -14,3 +14,15 @@ Hence, activating FreeSurfer version 7.2.0 can be done with this command:
     ml freesurfer/7.2.0  
 ```
 Now, all the usual FreeSurfer commands are accessible and can be directly written in the command line. Also, data can even be downloaded from the internet in this test server tool!
+
+In this project, the used/example command was:
+```console
+    recon-all -subject sub-001 -i name_of_file.nii -all 
+```
+All the files will be written in a sub-001 directory. The flag/option -i for input will go look for data as it was indicated by the environmental variable $SUBJECTS_DIR. To set that variable in the command line interface (CLI), use:
+```console
+    export SUBJECTS_DIR=/path/to/freesurfer_data/
+```
+
+There it is! All the other tools can also be tested with the same ml command as shown previously to activate them. 
+
